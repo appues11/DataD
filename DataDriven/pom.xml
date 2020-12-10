@@ -10,7 +10,7 @@
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.6.0</version><!-- hiiii -->
+				<version>3.6.0</version><!-- hii -->
 
 			</plugin>
 			<plugin>
